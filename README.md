@@ -1,6 +1,6 @@
 
 ### System UI Tuner Access App 🚀
-![System UI Tuner ]()
+![System UI Tuner ](https://github.com/subhamsinhadev/SystemUI-Tuner/blob/main/icon.png)
 
 
 An Android app that provides easy access to the System UI Tuner with a clean and modern UI. It ensures a smooth experience by displaying a one-time confirmation dialog before opening the tuner.
@@ -22,10 +22,10 @@ Check the changelog of the latest version from [releases page](https://github.co
 ###  🔧 Installation
 
 Clone the repository and build it using Aide Studio:
-
+``` bash
 git clone https://github.com/subhamsinhadev/SystemUI-Tuner.git
 cd SystemUI-Tuner
-
+``` 
 ###  📜 License
 
 This project is open-source under the MIT License.
